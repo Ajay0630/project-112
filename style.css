@@ -1,0 +1,15 @@
+h1 {
+    font-size:30px !important;
+    letter-spacing: 10px;
+    color: whitesmoke !important;
+}
+#result{
+    width: 300px;
+    height: 250px;
+    margin-left: 535px;
+}
+#camera{
+    width: 360px;
+    height: 250px;
+    margin-left: 535px;
+}
